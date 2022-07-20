@@ -1,5 +1,5 @@
 # Making-Business-Decisions-Based-on-Data
-This project is a part of the practicum course real data-based projects
+This project is a part of Practicum100-Masterschool Data Analyst course's real data-based projects.
 In this project i am analysing an AB test results, and trying to declare a winning group and decide whether to stop or continue the test.
 I am interpreting the resulting graphs, calculating statistical significance, and drawinbg a data-based conclusion.
 
